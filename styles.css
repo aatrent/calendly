@@ -1,1 +1,11 @@
+.cal {
+    min-width:320px;
+    height:684px;
+}
 
+@media only screen and (max-width: 600px) {
+    .cal {
+        height:100vh;
+        
+    }
+  }
